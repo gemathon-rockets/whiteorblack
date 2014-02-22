@@ -4,7 +4,7 @@ require "whiteorblack/version"
 
 Gem::Specification.new do |s|
   s.name        = "whiteorblack-rails"
-  s.version     = Visualsearch::VERSION
+  s.version     = Whiteorblack::VERSION
   s.authors     = ["Nikita Singh"]
   s.date        = '2014-02-16'
   s.email       = ["nikitaa_singh@yahoo.co.in"]
